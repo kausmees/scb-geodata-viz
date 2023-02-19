@@ -1,0 +1,8 @@
+streamlit
+protobuf
+numpy
+pandas
+geopandas
+pydeck
+shapely
+
